@@ -15,3 +15,13 @@ A production-ready, knowledge-grounded cloud AI Agent built using Microsoft Azur
 
 ## 📋 System Configuration (YAML Specifications)
 The complete orchestration rules, metadata, and identity schemas are preserved in the `agent-config.yaml` file within this repository.
+
+
+## 📸 Live Deployment Proof
+Here is the agent executing real-time multilingual code-switching and data grounding:
+
+![Agent's appearance](./Screenshot 2026-07-03 191422.png)
+![Sepedi Test](./Screenshot 2026-07-03 192302.png)
+![Afrikaans Test](./Screenshot 2026-07-03 192532.png)
+![Speech/Voice Response Test](./Screenshot 2026-07-03 193033.png)
+
