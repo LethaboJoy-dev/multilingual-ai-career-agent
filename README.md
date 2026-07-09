@@ -20,11 +20,12 @@ The complete orchestration rules, metadata, and identity schemas are preserved i
 ## 📸 Live Deployment Proof
 Here is the agent executing real-time multilingual code-switching and data grounding:
 
-![Agent's appearance](./Screenshot 2026-07-03 191422.png)
+![Agent's appearance](./Screenshot%202026-07-03%20191422.png)
 
-![Sepedi Test](./Screenshot 2026-07-03 192302.png)
+![Sepedi Test](./Screenshot%202026-07-03%20192302.png)
 
-![Afrikaans Test](./Screenshot 2026-07-03 192532.png)
+![Afrikaans Test](./Screenshot%202026-07-03%20192532.png)
 
-![Speech/Voice Response Test](./Screenshot 2026-07-03 193033.png)
+![Speech/Voice Response Test](./Screenshot%202026-07-03%20193033.png)
+
 
